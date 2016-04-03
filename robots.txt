@@ -1,0 +1,5 @@
+  <br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/excel670/public_html/wp-content/plugins/jetpack/class.photon.php:1) in <b>/home/excel670/public_html/wp-includes/functions.php</b> on line <b>1302</b><br />
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
